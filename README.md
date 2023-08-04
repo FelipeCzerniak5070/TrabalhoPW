@@ -1,2 +1,3 @@
 # TrabalhoPW
-Trabalho de Programação Web. Tema: Site informativo sobre a banda King Crimson
+Trabalho de Programação Web. 
+Tema: Site informativo sobre a banda King Crimson
