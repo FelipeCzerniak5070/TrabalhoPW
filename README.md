@@ -1,7 +1,7 @@
 # TrabalhoPW
 Trabalho de Programação Web.
 Alunos: Felipe, Eduardo Varela e João Soares;
-Tema escolhido: Músicac / Músicos; 
+Tema escolhido: Música / Músicos; 
 Site informativo sobre a banda britânica King Crimson;
 
 O trabalho foi divido em:
